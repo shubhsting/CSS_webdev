@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+  margin-top: 200px;
+  background-color: #B533FF;
+
+}
+.mob{
+border-radius: 15px;
+  background-color: white;
+  margin-left: 500px;
+  margin-right: 500px;
+
+}
+input{
+  /* border-radius: 15px; */
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  border-bottom: 3px solid #B533FF;
+}
+
+#sub{
+height: 50px;
+width: 200px;
+border-radius: 15px;
+}
+.ab:focus{
+  width: 250px;
+  height: 50px;
+  border-radius: 15px;
+}
