@@ -1,0 +1,35 @@
+td{
+  background-color: black;
+  height: 200px;
+  width: 150px;
+  border: 5px solid white;
+}
+table{
+  margin: auto;
+}
+h1{
+text-align: center;
+font-family: 'Dancing Script', cursive;
+}
+#first{
+  background-color: #073659;
+}
+#second{
+  background-color: #92DCE5;
+}
+#third{
+  background-color: #119DA4;
+}
+#fourth{
+  background-color: #E6E64E;
+}
+#fifth{
+  background-color: #0888B2;
+}
+
+
+/*
+
+website used is https://coolors.co/browser/latest/1
+font from google font 
+ */

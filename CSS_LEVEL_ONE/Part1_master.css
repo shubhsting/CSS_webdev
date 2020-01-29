@@ -1,0 +1,48 @@
+
+h1{
+  color: red;
+}
+/* p{
+  color: blue;
+  font-style: oblique;
+} */
+
+li{
+  color:pink;
+}
+
+li a{
+  color: pink;
+}
+
+div{
+  background-color: yellow;
+}
+
+/* classes are used as shown below */
+.first{
+  background-color: pink;
+  color: black;
+  text-decoration: line-through;
+}
+.second{
+  background-position: bottom;
+  background-color: red;
+  color: yellow;
+  font-weight:
+}
+
+/* id is used as given below  */
+
+
+#po{
+  background-color: black;
+  color: white;
+  font-style: oblique;
+}
+
+label{
+  background-color: pink;
+  font-weight: bolder;
+  color: yellow;
+}
